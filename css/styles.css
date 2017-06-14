@@ -325,8 +325,11 @@ background: none;
     position: relative;
 }
 
-    .banner-container > img {
-        width: 100%;
+    .banner-container < img {
+      
+        width: 30%;
+        margin-left: 50px;
+        margin-top: 80px;
     }
 
 .banner-content {
@@ -342,6 +345,7 @@ background: none;
         font-size: 3.5em;
         margin: 2% 0 30px;
         line-height: 1.2em;
+        margin-top : 50px;
     }
 
     .banner-content p {
@@ -1139,3 +1143,10 @@ footer {
         user-select: none;
         -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
     }
+.personal-photo {
+margin-top : 80px;
+margin-left: 50px;
+}
+.Text{
+margin-top :50px;
+}
