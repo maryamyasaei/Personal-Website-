@@ -1145,8 +1145,12 @@ footer {
     }
 .personal-photo {
 margin-top : 80px;
-margin-left: 50px;
+margin-left: 200px;
 }
 .Text{
 margin-top :50px;
 }
+.about-me{
+font-size: 18px;
+}
+
