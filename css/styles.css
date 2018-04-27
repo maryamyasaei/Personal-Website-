@@ -1157,7 +1157,7 @@ footer {
 }
 @media screen and (max-width: 480px) {
 	.personal-intro {
-		margin-top: 0px;
+		margin-top: 50px;
 	}
 }
 
